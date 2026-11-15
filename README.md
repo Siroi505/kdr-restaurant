@@ -24,7 +24,7 @@ KDR Restaurant is a website project designed to showcase a modern restaurant exp
 
 ## Live Demo
 
-Coming Soon — Cloudflare Pages
+https://kdr-restaurant.pages.dev
 
 ## Repository
 
